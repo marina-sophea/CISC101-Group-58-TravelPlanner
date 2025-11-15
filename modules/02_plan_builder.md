@@ -14,4 +14,4 @@ for each day:
 
 Add-on rule:
 - Do not schedule two high-exertion activities back-to-back (e.g., hikes, long walking tours, climbing activities). 
-- If an activity requires significant physical effort, choose a lower-intensity option for the next time slot to keep the day balanced.
+- If an activity requires significant physical effort, choose a lower-intensity option for the next time slot to keep the day balanced
